@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["OpenAPI-Generator"]
   s.email       = ["autosde@il.ibm.com"]
-  s.homepage    = "https://github.com/Autosde/autosde-oas/"
+  s.homepage    = "https://github.com/Autosde/autosde-oas/tree/main/generated"
   s.summary     = "Site Manager API Ruby Gem"
   s.description = "Site Manager API"
   s.license     = "Apache-2.0"
